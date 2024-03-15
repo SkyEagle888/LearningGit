@@ -1,8 +1,8 @@
-File 1
-======
+# File 1
+# ======
 
+# Use triple quotes to define multi-line strings
+content = """
 1
 
-2
 
-3
